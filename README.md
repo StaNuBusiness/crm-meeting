@@ -56,7 +56,7 @@ This package uses [`nncodes/meta-attributes`](https://github.com/99codes/laravel
 You can install the package via composer:
 
 ```bash
-composer require nncodes/laravel-meeting
+composer require stanubusiness/laravel-meeting
 ```
 
 The package will automatically register itself.
