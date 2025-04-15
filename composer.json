@@ -20,12 +20,7 @@
             "role": "Developer"
         }
     ],
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/StaNuBusiness/laravel-meta-attributes"
-        }
-    ],
+
     "require": {
         "php": "^8.0|^8.1|^8.2",
         "guzzlehttp/guzzle": "^6.0|^7.0|^7.2",
