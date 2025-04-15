@@ -15,16 +15,20 @@
             "role": "Developer"
         }
     ],
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/StaNuBusiness/laravel-meta-attributes"
+        }
+    ],
     "require": {
-        "php": "^7.2.5|^7.3|^8.0",
-        "guzzlehttp/guzzle": "^6.0|^7.0",
-        "illuminate/contracts": "^6.0|^7.0|^8.0",
-        "nncodes/laravel-meta-attributes": "^2.0"
+        "php": "^8.0|^8.1|^8.2",
+        "guzzlehttp/guzzle": "^6.0|^7.0|^7.2",
+        "illuminate/contracts": "^9.0|^10.0|^11.0",
+        "stanubusiness/laravel-meta-attributes": "2.1.5"
     },
     "require-dev": {
-        "orchestra/testbench": "^4.0|^5.0|^6.0",
-        "phpunit/phpunit": "^8.0|^9.0",
-        "vimeo/psalm": "^4.3"
+        "phpunit/phpunit": "^10.4|^11.5"
     },
     "autoload": {
         "psr-4": {
