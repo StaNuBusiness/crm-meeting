@@ -25,7 +25,7 @@
         "php": "^8.0|^8.1|^8.2",
         "guzzlehttp/guzzle": "^6.0|^7.0|^7.2",
         "illuminate/contracts": "^9.0|^10.0|^11.0",
-        "stanubusiness/laravel-meta-attributes": "2.1.5"
+        "stanubusiness/laravel-meta-attributes": "^2.1"
     },
     "require-dev": {
         "phpunit/phpunit": "^10.4|^11.5"
