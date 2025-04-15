@@ -1,13 +1,18 @@
 {
-    "name": "nncodes/laravel-meeting",
-    "description": "Handle online meeting with Laravel",
+    "name": "stanubusiness/laravel-meeting",
+    "description": "Pakcage forked from nncodes/laravel-meeting. This package has been updated alongside its dependencies to support latest laravel versions.",
     "keywords": [
         "nncodes",
         "laravel-meeting"
     ],
-    "homepage": "https://github.com/99codes/laravel-meeting",
+    "homepage": "https://github.com/StaNuBusiness/crm-meeting",
     "license": "MIT",
     "authors": [
+        {
+            "name": "StaNuBusiness",
+            "email": "stanubusiness@gmail.com",
+            "role": "Maintainer"
+        },
         {
             "name": "Leonardo Poletto",
             "email": "lgupoletto@gmail.com",
